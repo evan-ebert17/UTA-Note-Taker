@@ -1,4 +1,4 @@
-#Deployed App
+# Deployed App
 https://thawing-journey-54102.herokuapp.com/
 # NoteTaker
 ## Function
